@@ -1,0 +1,16 @@
+{
+    "ImageBase": 0,
+    "VersionInformationSize": 1220,
+    "SectionsMaxEntropy": 4.41,
+    "MajorOperatingSystemVersion": 7,
+    "ResourcesMinSize": 813,
+    "SizeOfStackReserve": 5446,
+    "Characteristics": 441,
+    "SizeOfInitializedData": 1643,
+    "MajorSubsystemVersion": 3,
+    "ResourcesNb": 2,
+    "Subsystem": 1,
+    "ResourcesMinEntropy": 4.59,
+    "BaseOfData": 124,
+    "SizeOfImage": 548311
+}
